@@ -16,7 +16,7 @@ body{
     align-items: center;
     justify-content: space-around;
 }
-.div1,.div2,.div3,.div4{
+a{
     background-color:rgb(160, 0, 0);
     border:3px solid #fff;
     border-radius: 50px;
