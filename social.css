@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(146, 146, 146);
+}
+.body{
+    background-color: rgb(146, 146, 146);
+    width: 80vw;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.div1,.div2,.div3,.div4{
+    background-color:rgb(160, 0, 0);
+    border:3px solid #fff;
+    border-radius: 50px;
+    width: 250px;
+    height: 250px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    color:#fff;
+    text-decoration: none;
+    font: 30px "raleway";
+}
